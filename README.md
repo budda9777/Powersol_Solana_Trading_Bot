@@ -2,7 +2,7 @@
 <img width="1920" height="960" alt="dashboard" src="https://github.com/user-attachments/assets/9d5a8f97-e2e9-405e-b426-377abd8c987e" />
 # PowerSol Bot Documentation
 
-PowerSol Sniper Bot
+PowerSol Sniper Bot on Solana Blockchain and Pump fun
 Automated Pump.fun token sniping for Windows
 PowerSol monitors Pump.fun in real-time, executes instant entries on new tokens, and helps you catch opportunities before others.
 
@@ -120,6 +120,7 @@ Telegram Channel - Downloads & Support @powersolbotsol
 
 
 Built for Solana traders who want speed, safety, and simplicity.
+
 
 
 
