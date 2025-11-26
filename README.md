@@ -1,3 +1,5 @@
+![photo_2025-11-10_13-07-46](https://github.com/user-attachments/assets/eb73125d-da3d-468c-ae5b-026fcef6dd91)
+<img width="1920" height="960" alt="dashboard" src="https://github.com/user-attachments/assets/9d5a8f97-e2e9-405e-b426-377abd8c987e" />
 # PowerSol Bot Documentation
 
 PowerSol Sniper Bot
@@ -117,4 +119,5 @@ Twitter - Updates & News
 
 
 Built for Solana traders who want speed, safety, and simplicity.
+
 
